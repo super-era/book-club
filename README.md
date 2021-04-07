@@ -1,5 +1,5 @@
-#Book club
 
+# Book club
 ## Purpose
 This basic C# project is part of Lesson 7 (CLG C# course) that allows one to view and add members to a book club, curate their reading lists, and so on. This project aims to use classes and objects as well as some initial implementation of encapsulation. It also uses switch statements, lists, booleans etc.
 
